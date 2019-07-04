@@ -1,4 +1,4 @@
-# Recommended-Systems-using-collabrative-filtering
+# Recommended-Systems-using-collabrative-filtering - Jupyter Notebooks
 
 In this project, we'll develop a movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
